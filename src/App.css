@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+:root {
+  --white: #fdffff;
+  --dark: #2c3141;
+  --red: #ed4a4c;
+}
+
+.App {
+  height: 100vh;
+  background-color: var(--white);
+}
